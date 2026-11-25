@@ -46,6 +46,11 @@ Qubes Video Companion is available for installation on Qubes OS in packaged form
 Additionally, when using a kernel from inside the qube, v4l2loopback-dkms package needs to be installed:
 `sudo apt install v4l2loopback-dkms`
 
+#### Arch Linux
+Run in a clone of this repository:
+
+`make -C archlinux`
+
 ## Usage
 
 ### Webcam

@@ -3,3 +3,7 @@
 __pycache__
 pkgs
 debian/changelog.*
+archlinux/PKGBUILD
+archlinux/pkg
+archlinux/src
+*.pkg.tar.zst
